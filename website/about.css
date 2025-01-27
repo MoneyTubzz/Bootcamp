@@ -1,0 +1,24 @@
+/* about card */
+.card {
+    background-color: #f2f2f2;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    max-height: 600px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin: 0;
+     position: absolute;
+    top: 50%;
+     left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 25px;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+
